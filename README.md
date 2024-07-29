@@ -14,7 +14,7 @@ This project is a simple and elegant music player built using HTML and CSS. It f
 
 
 ## Demo
-You can see a live demo of the Music Player 
+You can see a live demo of the Music Player https://www.linkedin.com/posts/manjeet-kumar-50a463301_internship-project-image-gallery-creation-activity-7223593669117775874-AKUx?utm_source=share&utm_medium=member_desktop
 
 ## Features
 - Play and pause music

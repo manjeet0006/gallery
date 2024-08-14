@@ -22,7 +22,7 @@ To use this gallery in your project:
 
 bash
 Copy code
-git clone https://github.com/your-username/gallery.git
+git clone https://github.com/manjeet0006/gallery.git
 Navigate to the project directory:
 
 bash

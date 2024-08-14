@@ -11,18 +11,6 @@ To run this project locally, you will need:
 
 A modern web browser (e.g., Chrome, Firefox, Edge)
 Basic knowledge of HTML, CSS, and JavaScript
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/image-gallery.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd image-gallery
-Open the index.html file in your web browser to view the gallery.
 
 Directory Structure
 plaintext

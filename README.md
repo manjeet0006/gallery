@@ -1,36 +1,33 @@
-Image Gallery Project
-Welcome to the Image Gallery project! This is a simple web-based gallery that displays images in a 3x3 grid layout. The gallery is responsive and can be easily customized to fit various needs.
+**Interactive Image Gallery**
+This repository contains an interactive image gallery created using HTML and CSS. The gallery allows users to tap on images to enlarge them, and tap again to close the enlarged view.
 
-Features
-3x3 Grid Layout: Displays images in a clean and organized 3x3 grid.
-Responsive Design: The gallery adapts to different screen sizes.
-Customizable: Easily modify the layout, styles, and images.
-Getting Started
-Prerequisites
-To run this project locally, you will need:
+**Features**
+Responsive Design: The gallery is designed to work on various screen sizes.
+Interactive: Tap on any image to see a larger version. Tap again to close the enlarged image.
+Simple and Clean Layout: The gallery uses a minimalist design to keep the focus on the images.
+**Demo**
+Check out the live demo of the gallery here. https://www.linkedin.com/posts/manjeet-kumar-50a463301_internship-project-image-gallery-creation-activity-7223593669117775874-AKUx?utm_source=share&utm_medium=member_desktop
 
-A modern web browser (e.g., Chrome, Firefox, Edge)
-Basic knowledge of HTML, CSS, and JavaScript
+**Usage**
+To use this gallery in your project:
 
-Directory Structure
-plaintext
+**Clone the repository:**
+
+bash
 Copy code
-image-gallery/
-│
-├── index.html       # Main HTML file
-├── style.css        # CSS file for styling
-└── images/          # Directory containing the gallery images
-Customization
-Adding/Removing Images: Place your images in the images/ directory and update the index.html file with the correct image paths.
-Changing Styles: Modify the style.css file to change the appearance of the gallery.
-Usage
-Once you've customized the gallery to your liking, you can:
+git clone https://github.com/your-username/gallery.git
+Navigate to the project directory:
 
-Host it on a web server or use a service like GitHub Pages to make it publicly accessible.
-Share the URL with others to showcase your image gallery.
-Contributing
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. Feel free to open issues for any bugs or feature requests.
+bash
+Copy code
+cd gallery
+Open the index.html file in your browser to view the gallery.
 
-Acknowledgements
-Thanks to Unsplash for providing free images used in this demo.
-Inspired by various online tutorials and projects.
+**Customization**
+To customize the gallery:
+
+Replace the images in the images/ directory with your own images.
+Modify the index.html file if you want to change the structure of the gallery.
+Edit the style.css file to customize the styles according to your preferences.
+**Credits**
+Created by: Manjeet kumar
